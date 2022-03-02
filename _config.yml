@@ -9,11 +9,6 @@
 # cp: Carpentries (to use for instructor traning for instance)
 carpentry: "swc"
 
-# swc-gapminder: for Software Carpentry based on the Gapminder dataset
-curriculum: "swc-inflammation"
-
-# Note: this is only for Data Carpentry and SWC at this time.
-flavor: "r"
 
 # Overall title for pages.
 title: "Workshop Title"
