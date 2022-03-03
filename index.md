@@ -14,7 +14,7 @@ instructor: ["Daniel Chávez", "Carlos Carrión"] # lista de nombres de las inst
 helper: ["María Beatriz Cabezas", "Eduardo Atiencia", "Cornelia Brito"]     # lista de nombres de las **helpers** separados por comas y entre corchetes, como ["Carrie Fisher", "Frances Allen", "Margaret Hamilton"]
 email: ["dechavezv@g.ucla.edu"]    # lista de direcciones de correo electrónico de contacto con la **host** ó **lead instructor**, separadas por comas y entre corchetes, como ["ada.lovelace@ejemplo.org", "carrie.fisher@ejemplo.org", "hedy.lamarr@example.org"]
 collaborative_notes: https://pad.carpentries.org/2022-05-07-Ecuador-PUCE    # optional: URL de las notas colaborativas del taller, por ejemplo un Etherpad o documento de Google Docs 
-eventbrite: "EWWVYFLB27QM5X2ZPS" # optional: clave alfanumérica de registro en Eventbrite, por ejemplo "1234567890AB" (si se está utilizando Eventbrite)
+eventbrite: # optional: clave alfanumérica de registro en Eventbrite, por ejemplo "1234567890AB" (si se está utilizando Eventbrite)
 ---
 
 {% comment %} Ver en los comentarios que siguen las instrucciones sobre cómo editar secciones específicas de esta plantilla de taller {% endcomment %}
@@ -42,6 +42,9 @@ eventbrite: "EWWVYFLB27QM5X2ZPS" # optional: clave alfanumérica de registro en 
   scrolling="auto">
 </iframe>
 {% endif %}
+
+<h4>Registrarse aquí: <a href="EventBrite">https://www.eventbrite.com/e/swc-ecuador-shell-r-y-git-tickets-290009796107</a></h4>
+
 
 {% comment %}
 
