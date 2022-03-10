@@ -8,8 +8,8 @@ language: "es"     # código ISO del idioma, dos letras en minúscula como por e
 latlng: "-0.210843,-78.490922"       # latitud y longitud del espacio en formato decimal (por ejemplo, "41.7901128,-87.6007318" - usar http://www.latlong.net/)
 humandate: "Mayo 14-15, 2022"    # fechas del taller en formato legible (por ejemplo, "Feb 17-18, 2020")
 humantime: "9:00 am - 4:30 pm"    # hora del taller en formato legible (por ejemplo, "9:00 am - 4:30 pm")
-startdate: 2022-05-07      # fecha de inicio del taller en formato YYYY-MM-DD (por ejemplo, 2015-01-01)
-enddate: 2022-05-08        # fecha de finalización del taller en formato YYYY-MM-DD, por ejemplo 2015-01-02
+startdate: 2022-05-14      # fecha de inicio del taller en formato YYYY-MM-DD (por ejemplo, 2015-01-01)
+enddate: 2022-05-15        # fecha de finalización del taller en formato YYYY-MM-DD, por ejemplo 2015-01-02
 instructor: ["Daniel Chávez", "Carlos Carrión"] # lista de nombres de las instructoras separados por comas y entre corchetes, como ["Hedy Lamarr", "Ada Lovelace", "Madame Curie"]
 helper: ["María Beatriz Cabezas", "Eduardo Atiencia", "Cornelia Brito"]     # lista de nombres de las **helpers** separados por comas y entre corchetes, como ["Carrie Fisher", "Frances Allen", "Margaret Hamilton"]
 email: ["dechavezv@g.ucla.edu"]    # lista de direcciones de correo electrónico de contacto con la **host** ó **lead instructor**, separadas por comas y entre corchetes, como ["ada.lovelace@ejemplo.org", "carrie.fisher@ejemplo.org", "hedy.lamarr@example.org"]
