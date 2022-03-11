@@ -43,7 +43,7 @@ eventbrite: # optional: clave alfanumérica de registro en Eventbrite, por ejemp
 </iframe>
 {% endif %}
 
-<h4>Registrarse aquí: <a href="https://www.eventbrite.com/e/swc-ecuador-shell-r-y-git-tickets-290009796107">EventBrite-Tickets-SWC-Ecuador-PUCE</a></h4>
+<h4>Registrarse aquí (Cupos Limitados: Máximo 15 participantes): <a href="https://www.eventbrite.com/e/swc-ecuador-shell-r-y-git-tickets-290009796107">EventBrite-Tickets-SWC-Ecuador-PUCE</a></h4>
 
 
 {% comment %}
