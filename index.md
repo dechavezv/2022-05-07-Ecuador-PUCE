@@ -187,13 +187,13 @@ También es requerido que respeten el
 <p><em>Encuestas</em></p>
 {% if page.carpentry == "swc" %}
 <p>Por favor, asegúrese de completar estas encuestas antes y después del taller.</p>
-<p><a href="{{ site.swc_pre_survey }}{{ site.github.project_title }}">Encuesta pre-taller</a></p>
-<p><a href="{{ site.swc_post_survey }}{{ site.github.project_title }}">Encuesta post-taller</a></p>
+<p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Encuesta pre-taller</a></p>
+<p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Encuesta post-taller</a></p>
 
 {% elsif page.carpentry == "dc" %}
   <p>Por favor, asegúrese de completar estas encuestas antes y después del taller.</p>
-<p><a href="{{ site.dc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.dc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
+<p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
+<p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 {% elsif page.carpentry == "lc" %}
 <p>Pregúntele a su instructor acerca de los detalles de la encuesta antes y después del taller.</p>
 {% endif %}
