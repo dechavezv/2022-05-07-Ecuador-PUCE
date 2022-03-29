@@ -136,7 +136,7 @@ También es requerido que respeten el
   Modifica este bloque si existen barreras de accesibilidad o instrucciones especiales.
 {% endcomment %}
 <p id="accessibility">
-  <strong>Accesibilidad:</strong> Estamos comprometidas a hacer que este taller sea accesible para todas. Las organizadoras comprobaron que: 
+  <strong>Accesibilidad:</strong> Estamos comprometidos a hacer que este taller sea accesible para todos. Los organizadores comprobaron que: 
 </p>
 <ul>
   <li>El salón es accesible para silla de ruedas o similar</li>
